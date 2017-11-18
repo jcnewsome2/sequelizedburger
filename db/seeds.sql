@@ -1,4 +1,4 @@
-Use heroku_63549ed6f55947e;
+Use shrouded-ocean-24711;
 
 INSERT INTO burgers (`burger_name`, devoured)
 VALUES ("Whataburger", true);
