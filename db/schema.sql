@@ -1,4 +1,4 @@
-Use heroku_63549ed6f55947e;
+Use shrouded-ocean-24711;
 
 CREATE TABLE burgers (
 	id int auto_increment NOT NULL,
